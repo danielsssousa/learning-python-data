@@ -1,6 +1,9 @@
-num_max = int(input('Digite um numero: '))
-num = 0
-while num <= num_max:
-    print(num)
-    num += 1
-print('Fim do programa!')
+
+tentativa = str
+alvo = 'daniel hazer'
+
+while tentativa != alvo:
+    tentativa = str(input('Digite o nome do alvo:')) 
+
+if tentativa == alvo:
+    print(f'Alvo encontrado: {alvo}')
