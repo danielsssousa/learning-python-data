@@ -7,6 +7,6 @@ print('Seu primeiro nome é {} e tem {} letras' .format(separa[0], len(separa[0]
 
 
 
-# .strip() Remove os espaços antes e apos o nome.
+# .strip() Remove os espaços antes e apos  nome.
 
 # - nome.count(' ') Remove os espaços entre os nomes.
