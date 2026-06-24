@@ -1,5 +1,5 @@
-import datetime
+import datetime #Biblioteca data hora
 
-ahora = datetime.datetime.now()
+hora = datetime.datetime.now()
 
 print(f'A hora exata são de {ahora}')
