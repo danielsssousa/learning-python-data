@@ -1,4 +1,4 @@
-salario = float(input('Digite o valor de seu salario atual: R$ '))
+salario = float(input('Digite o valor de seu soldo atual: R$ '))
 
 if salario <= 1.250:
     novo = salario + (salario * 15 / 100)
