@@ -1,0 +1,6 @@
+
+import time
+
+print('Gerando relatorio...')
+time.sleep(3)
+print('Relatorio completo!')
