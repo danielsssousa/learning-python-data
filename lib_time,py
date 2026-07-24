@@ -1,6 +1,16 @@
 
 import time
 
+inicio = time.time()
+
 print('Gerando relatorio...')
 time.sleep(3)
 print('Relatorio completo!')
+
+fim = time.time()
+tempo_decorrdo = fim - inicio
+
+print(f'Seu codigo levou {tempo_decorrdo:.2f} segundos. ')
+
+agora = time.strftime('%d-%m-%Y %H:%M:%S', time.localtime())
+print(f'Grupo data hora do codigo {agora}')
