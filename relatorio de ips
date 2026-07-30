@@ -1,0 +1,52 @@
+== Relacao de numeros IPs do host == 
+ 
+
+Configura‡Æo de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-PJ89FBH
+   Sufixo DNS prim rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h¡brido
+   Roteamento de IP ativado. . . . . . . . . . : nÆo
+   Proxy WINS ativado. . . . . . . . . . . . . : nÆo
+
+Adaptador de Rede sem Fio ConexÆo Local* 1:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 48-F1-7F-C2-8E-50
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio ConexÆo Local* 2:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 4A-F1-7F-C2-8E-4F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Killer(R) Wireless-AC 1550i Wireless Network Adapter (9560NGW) 160MHz
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 48-F1-7F-C2-8E-4F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+   Endere‡o IPv6 . . . . . . . . . . : 2804:c2c:cf07:8c8a:decb:49e1:763c:3fe0(Preferencial) 
+   Endere‡o IPv6 Tempor rio. . . . . . . . : 2804:c2c:cf07:8c8a:e9ca:91d8:1a7d:54d(Preferencial) 
+   Endere‡o IPv6 de link local . . . . . . . . : fe80::200a:290b:132c:480a%13(Preferencial) 
+   Endere‡o IPv4. . . . . . . .  . . . . . . . : 192.168.0.5(Preferencial) 
+   M scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   ConcessÆo Obtida. . . . . . . . . . . . . . : quarta-feira, 29 de julho de 2026 20:02:48
+   ConcessÆo Expira. . . . . . . . . . . . . . : quarta-feira, 29 de julho de 2026 23:02:48
+   Gateway PadrÆo. . . . . . . . . . . . . . . : fe80::e2d3:62ff:fe36:6df8%13
+                                                 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 138998143
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-01-00-31-DE-E3-C3-00-D8-61-07-C1-ED
+   Servidores DNS. . . . . . . . . . . . . . . : fe80::e2d3:62ff:fe36:6df8%13
+                                                 189.90.40.24
+                                                 189.90.40.69
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
